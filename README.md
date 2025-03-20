@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-Down below you can see my magnificent face (yeah that's me, what about it ?)
+Down below you can see my magnificent face.
 ![retarded](https://github.com/user-attachments/assets/de019fda-54bf-4ba6-8030-a60c478c25cb)
 
 <!--
