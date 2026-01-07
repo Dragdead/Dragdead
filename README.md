@@ -14,9 +14,6 @@ Welcome to my GitHub profile. I'm a student, passionate about cybersecurity. I p
 - Discord: nohaxjustbuild
 - Steam: Dragdead
 
-Here, have a cat :
-![retarded](https://github.com/user-attachments/assets/de019fda-54bf-4ba6-8030-a60c478c25cb)
-
 <!--
 **Dragdead/Dragdead** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
