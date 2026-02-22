@@ -6,7 +6,7 @@ Welcome to my GitHub profile. I'm a student, passionate about cybersecurity. I p
 
 - ER-AHK  
   Description: A very crude and simple script that enables you to forcefully map the reserved keys in Elden Ring  
-  GitHub: https://github.com/Dragdead/ER-AHK-shenanigans
+  GitHub: https://github.com/Dragdead/ER-AHK
 
 ## Contact
 
